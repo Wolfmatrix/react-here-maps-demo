@@ -14,7 +14,7 @@ class TopBarNav extends Component {
             <a
               className="nav-link"
               target="new"
-              href="https://github.com/wolfmatrix-nepal/React-Here-Maps"
+              href="https://github.com/Wolfmatrix/react-here-maps"
             >
               Github
             </a>
