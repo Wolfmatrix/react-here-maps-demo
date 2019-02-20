@@ -2,7 +2,7 @@
   "name": "react-here-maps-demo",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://wolfmatrix-nepal.github.io/react-here-maps-demo",
+  "homepage": "https://wolfmatrix.github.io/react-here-maps-demo",
   "dependencies": {
     "@wolfmatrix/react-here-maps": "0.0.1",
     "gh-pages": "^2.0.1",
